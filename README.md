@@ -1,0 +1,2 @@
+This dashboard collects data from various sources, showing a clear visual of machine productivity. It displays important metrics like daily, monthly, quarterly, and yearly machine counts in simple graphs.
+Synchronizing the Dashboard gives the modified content in the Dashboard if there are any updates. Synchronization happens while performing scheduled refreshments which is fully automatic. Reports created in the Power BI Desktop Application are published in the Power BI browser, to make the Dashboard available to view by the specific employees who got access to view.
